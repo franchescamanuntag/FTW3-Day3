@@ -1,2 +1,3 @@
-# Day 3 Stuff
-### things
+# Day 3
+
+Homework and ProJect Euler
